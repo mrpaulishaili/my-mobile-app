@@ -23,7 +23,7 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
         <p><strong>Mobile Network Services Distributors</strong>:Those who bulk supply retailers but find it difficult in getting new customers because of inability for retailers in explaining and delivery services easily to end-users of mobile network products.<p>
     </li>
     <li> 
-        <p><strong>The end-users</strong>: Those who are too busy in knowing their mobile infos and would prefer a reliable application to help manage it.</p>
+        <p><strong>The end-users</strong>: Those who are too busy and would prefer a reliable application to help in safely managing their mobile infomation and credentials.</p>
     </li>
 </ul>
     
