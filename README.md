@@ -34,7 +34,13 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
 <p>Loading...</p>
 
 <h4>Team & Contributors</h4>
-<p>Loading...</p>
+<ul>
+    <li>
+        <p><strong>Ishaili Paul C.</strong></p>
+        <p>Design System Engineer</p>
+    </li>
+</ul>
+
 
 <h4>Financial Summit</h4>
 <p>Loading...</p>
