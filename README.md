@@ -43,7 +43,7 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
         <p><strong>Node JS:</strong> Node Package Manager</p>
     </li>
     <li>
-        <p><strong>TailWindCSS</strong>beautify UI</p>
+        <p><strong>TailWindCSS</strong> Beautify UI</p>
     </li>
     <li>
         <p><strong>OAuth:</strong> Credential Management</p>
