@@ -36,8 +36,13 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
 <h4>Team & Contributors</h4>
 <ul>
     <li>
-        <p><strong>Ishaili Paul C.</strong></p>
-        <p>Design System Engineer</p>
+        <p><strong>Ishaili Paul C. 👉🏻</strong>Design System Engineer</p>
+    </li>
+    <li>
+        <p><strong>Benjamin Okolo 👉🏻</strong>Content Developer</p>
+    </li>
+      <li>
+        <p><strong>Henry 👉🏻</strong>Backend Developer</p>
     </li>
 </ul>
 
