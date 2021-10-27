@@ -10,3 +10,7 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
     <li>Generate bank code for transfre to and from various banks</li>
     <li>Offer tooltips for suggested informations and ads for vital services to end-users</li>
 </ul>
+
+<h4>App Platforms</h4>
+<p>The App will be developed to currently run on Android and iOS platform, and a landing page containing a call-to-action for users to download and install this app on thier mobile devices.</p>
+<p>Their is room for futher developments.</p>
