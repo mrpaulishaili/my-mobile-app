@@ -12,7 +12,7 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
 </ul>
 
 <h4>App Platforms</h4>
-<p>The App will be developed to currently run on Android and iOS platform, and a landing page containing a call-to-action for users to download and install this app on thier mobile devices. Their is room for futher developments.</p>
+<p>The App will be developed to currently run on Android and iOS platform, and a landing page containing a call-to-action for users to download and install this app on their mobile devices. There is room for futher developments.</p>
 
 <h4>Target Users for the application</h4>
 <p>The target users for this application are:</p>
