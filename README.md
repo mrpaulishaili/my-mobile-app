@@ -48,7 +48,7 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
 
 
 <h4>Financial Summit</h4>
-<p>The estimated budget expenditure for this project is $1,000</p>
-<p>Open source funding is carried out to achieving this project</p>
+<p>The estimated budget expenditure for this project is <strong>$1,000</strong></p>
+<p><strong>Open source funding will also be implemented to handling this project</strong></p>
 
 
