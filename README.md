@@ -38,7 +38,20 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
 </ul>
 
 <h4>Dependencies</h4>
-<p>Loading...</p>
+<ul>
+    <li>
+        <p><strong>Node JS:</strong> Node Package Manager</p>
+    </li>
+    <li>
+        <p><strong>TailWindCSS</strong>beautify UI</p>
+    </li>
+    <li>
+        <p><strong>OAuth:</strong> Credential Management</p>
+    </li>
+      <li>
+        <p><strong>MongoDB:</strong> Information Storage Management</p>
+    </li>
+</ul>
 
 <h4>Team & Contributors</h4>
 <ul>
