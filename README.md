@@ -28,7 +28,14 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
 </ul>
 
 <h4>Development Tools</h4>
-<p>Loading...</p>
+<ul>
+    <li>
+        <p><strong>Web technologies:</strong> HTML, SCSS, Vanilla JS</p>
+    </li>
+    <li>
+        <p><strong>Android Studio + Dependencies:</strong></p>
+    </li>
+</ul>
 
 <h4>Dependencies</h4>
 <p>Loading...</p>
