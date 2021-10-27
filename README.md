@@ -26,4 +26,17 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
         <p><strong>The end-users</strong>: Those who are too busy and would prefer a reliable application to help in safely managing their mobile infomation and credentials.</p>
     </li>
 </ul>
-    
+
+<h4>Development Tools</h4>
+<p>Loading...</p>
+
+<h4>Dependencies</h4>
+<p>Loading...</p>
+
+<h4>Team & Contributors</h4>
+<p>Loading...</p>
+
+<h4>Financial Summit</h4>
+<p>Loading...</p>
+
+
