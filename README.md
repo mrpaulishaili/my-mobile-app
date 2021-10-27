@@ -36,18 +36,19 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
 <h4>Team & Contributors</h4>
 <ul>
     <li>
-        <p><strong>Ishaili Paul C. 👉🏻</strong>Design System Engineer</p>
+        <p><strong>Ishaili Paul C. 👉🏻</strong> Design System Engineer, Frontend Developer</p>
     </li>
     <li>
-        <p><strong>Benjamin Okolo 👉🏻</strong>Content Developer</p>
+        <p><strong>Benjamin Okolo 👉🏻</strong> Content Developer, User Expereince Researcher</p>
     </li>
       <li>
-        <p><strong>Henry 👉🏻</strong>Backend Developer</p>
+        <p><strong>Henry 👉🏻</strong> Backend Developer</p>
     </li>
 </ul>
 
 
 <h4>Financial Summit</h4>
-<p>Loading...</p>
+<p>The estimated budget expenditure for this project is $1,000</p>
+<p>Open source funding is carried out to achieving this project</p>
 
 
