@@ -18,10 +18,12 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
 <p>The target users for this application are:</p>
 <ul>
     <li>
-        <p><strong>Mobile Network Card Retailers:</strong>Those who sell airtime & Data to customers via vtu</p> </li>
-    <li>    <p><strong>Mobile Network Services Distributors</strong>:Those who bulk supply retailers but find it difficult in getting new customers because of inability for retailers in explaining and delivery services easily to end-users of mobile network products.<p></li>
-  <li>      <p><strong>The end-users</strong>: Those who are too busy in knowing their mobile infos and would prefer a reliable application to help manage it.</p>
-        
+        <p><strong>Mobile Network Card Retailers:</strong>Those who sell airtime & Data to customers via vtu</p>
+    <li> 
+        <p><strong>Mobile Network Services Distributors</strong>:Those who bulk supply retailers but find it difficult in getting new customers because of inability for retailers in explaining and delivery services easily to end-users of mobile network products.<p>
+    </li>
+    <li> 
+        <p><strong>The end-users</strong>: Those who are too busy in knowing their mobile infos and would prefer a reliable application to help manage it.</p>
     </li>
 </ul>
     
