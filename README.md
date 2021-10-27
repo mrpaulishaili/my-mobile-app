@@ -12,5 +12,16 @@ An app and platform to be developed for APPHEART Ltd. to enable end-users carry 
 </ul>
 
 <h4>App Platforms</h4>
-<p>The App will be developed to currently run on Android and iOS platform, and a landing page containing a call-to-action for users to download and install this app on thier mobile devices.</p>
-<p>Their is room for futher developments.</p>
+<p>The App will be developed to currently run on Android and iOS platform, and a landing page containing a call-to-action for users to download and install this app on thier mobile devices. Their is room for futher developments.</p>
+
+<h4>Target Users for the application</h4>
+<p>The target users for this application are:</p>
+<ul>
+    <li>
+        <p><strong>Mobile Network Card Retailers:</strong>Those who sell airtime & Data to customers via vtu</p>
+        <p><strong>Mobile Network Services Distributors</strong>:Those who bulk supply retailers but find it difficult in getting new customers because of inability for retailers in explaining and delivery services easily to end-users of mobile network products.<p>
+        <p><strong>The end-users</strong>: Those who are too busy in knowing their mobile infos and would prefer a reliable application to help manage it.</p>
+        
+    </li>
+</ul>
+    
